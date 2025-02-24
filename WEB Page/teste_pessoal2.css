@@ -1,0 +1,16 @@
+h1 {
+    font-family: Arial;
+    font-weight: bolder;
+    background-color: darkblue;
+    color: antiquewhite;
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Trebuchet MS';
+    font-weight: lighter;
+}
