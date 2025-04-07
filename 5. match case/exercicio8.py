@@ -3,7 +3,6 @@ os.system("clear || cls")
 
 # Elabore um algoritmo usando operações lógicas para uma empresa que quer verificar se um empregado está qualificado para
 # a aposentadoria ou não.
-# 
 
 
 # Entrada
