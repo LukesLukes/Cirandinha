@@ -1,0 +1,2 @@
+Paciente: Bob Esponja | Idade: 90
+Paciente: Patrick Estrela | Idade: 666
