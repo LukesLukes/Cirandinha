@@ -1,0 +1,46 @@
+Livro: O Conde de Monte Cristo
+Ano: 1844
+Autor: Alexandre Dumas
+Biografia: 'Alexandre Dumas (pai) (1802-1870) foi um romancista e dramaturgo francês, autor dos livros "Os Três Mosqueteiros" 
+e "O Conde de Monte Cristo", clássicos do romance de capa e espada de grande aceitação popular.'
+--------------------------------------------------
+
+Livro: Divina Comédia
+Ano: 1321
+Autor: Dante Alighieri
+Biografia: 'Dante Alighieri foi um poeta, escritor e político florentino, nascido na atual Itália. 
+É conhecido por sua epopeia A Divina Comédia, um dos primeiros trabalhos do Renascimento, 
+que exerceu forte influência sobre o pensamento humanista.'
+--------------------------------------------------
+
+Livro: Sherlock Holmes: The Complete Collection
+Ano: 1887
+Autor: Árthur Conan Doyle
+Biografia: 'Arthur Ignatius Conan Doyle foi um escritor e médico escocês, 
+mundialmente famoso por suas 60 histórias sobre o detetive Sherlock Holmes, 
+consideradas uma grande inovação no campo da literatura criminal.'
+--------------------------------------------------
+
+Livro: O Livro dos Cinco Anéis
+Ano: 1645
+Autor: Miyamoto Musashi
+Biografia: 'Miyamoto Musashi, batizado como Benosuke, auto-intitulado como Shinmen Musashi No Kami Fujiwara No Genshin,
+também conhecido pelo nome budista Niten Dōraku, e como Shinmen Takezō na cultura popular, 
+foi um espadachim japonês e um duelista, que viveu no período Azuchi-Momoyama e no início do período Edo.'
+--------------------------------------------------
+
+Livro: Monster
+Ano: 1994
+Autor: Naoki Urasawa
+Biografia: 'Naoki Urasawa é um aclamado mangaká e ocasional músico japonês, 
+conhecido por ser o criador de séries como Monster, 20th Century Boys, Pluto e Billy Bat.'
+--------------------------------------------------
+
+Livro: Frankstein
+Ano: 1999
+Autor: Junji Ito
+Biografia: 'Alguns de seus trabalhos mais notáveis ​​incluem Tomie, 
+uma série que narra uma garota imortal que leva seus admiradores à loucura; 
+Uzumaki, uma série de três volumes sobre uma cidade assombrada pela entidade sobrenatural da espiral; 
+e Gyo, uma história de dois volumes onde os peixes são controlados por uma cepa de bactérias sencientes denominada "fedor de morte".'
+--------------------------------------------------

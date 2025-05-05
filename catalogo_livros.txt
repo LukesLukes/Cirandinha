@@ -1,3 +1,6 @@
 Livro: Naruto | Autor: Masashi Kishimoto | Categoria: Shonem | Preço: R$230.00
 Livro: Solo Leveling | Autor: Dai | Categoria: Manhwa | Preço: R$239.99
 Livro: One Piece | Autor: Eiichiro Oda | Categoria: Shonem | Preço: R$128.99
+Livro: Paulo´s Book | Autor: Paulo Schawznigger | Categoria: Terror | Preço: R$3000.40
+Livro: Fate/Destiny Order | Autor: Kinoko Nasu | Categoria: Aventura, Fantasia | Preço: R$235.34
+Livro: 50 tons de escarlate | Autor: Dilma Rouseff | Categoria: Conteúdo Adulto | Preço: R$5000.04
