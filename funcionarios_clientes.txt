@@ -1,0 +1,42 @@
+        == Funcionário ==
+
+        Nome: Aurélio
+        Data de Admissão: 15/05/2005
+        Matrícula: 634426323245
+        Salário: R$ 2389.32
+        Endereço: Rua Belamita, 78
+--------------------------------------------------
+        == Funcionário ==
+
+        Nome: Tailane
+        Data de Admissão: 25/11/2006
+        Matrícula: 63544754643346
+        Salário: R$ 2345.23
+        Endereço: Rua Santa Cruz, 86
+--------------------------------------------------
+        == Funcionário ==
+
+        Nome: Julhys
+        Data de Admissão: 02/01/2001
+        Matrícula: 6785786345232
+        Salário: R$ 6587.67
+        Endereço: Avenida Madragoa dos Pinhais, 230
+--------------------------------------------------
+        == Cliente ==
+
+        Nome: Chupetilson
+        Data de Nascimento: 12/12/2002
+        Endereço: Rua Duarte da Frente, 90
+--------------------------------------------------
+        == Cliente ==
+
+        Nome: Ronaldo Gaúcho
+        Data de Nascimento: 29/12/1999
+        Endereço: Rua Soteropolitana, 342
+--------------------------------------------------
+        == Cliente ==
+
+        Nome: Marquitos Papaya
+        Data de Nascimento: 09/12/2001
+        Endereço: Travessa 30 de Abril
+--------------------------------------------------
