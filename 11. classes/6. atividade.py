@@ -44,7 +44,7 @@ def main():
 
     limpar_terminal()
     for i in range(QUANTIDADE):
-        print("=== Cadastro de Funcionário ===")
+        print("=== Cadastro de Funcionário ===\n")
         funcionario = Funcionario(
             nome = input("Digite o nome do funcionário: "),
             data_admissao = input("Digite a data de admissão (DD/MM/AAAA): "),
@@ -57,7 +57,7 @@ def main():
     
     limpar_terminal()
     for i in range(QUANTIDADE):
-        print("=== Cadastro de Cliente ===")
+        print("=== Cadastro de Cliente ===\n")
         cliente = Cliente(
             nome = input("Digite o nome do cliente: "),
             data_nascimento = input("Digite a data de nascimento (DD/MM/AAAA): "),
