@@ -1,0 +1,213 @@
+/* Estilo geral */
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Fundo escuro */
+    color: #e0e0e0; /* Texto claro */
+    line-height: 1.6;
+}
+
+/* Cabeçalhos */
+h1, h2, h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #ebebeb; /* Branco para título principal */
+    background-color: #20ee76; /* Verde para fundo do título */
+    margin-top: 2rem;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #3498db; /* Azul para subtítulos */
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+/* Estilo específico para assuntos */
+h3:nth-of-type(1) {
+    background-color: #e34c26; /* Cor para HTML */
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h3:nth-of-type(2) {
+    background-color: #264de4; /* Cor para CSS */
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h3:nth-of-type(3) {
+    background-color: #f7df1e; /* Cor para JavaScript */
+    color: #121212;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Parágrafos */
+p {
+    margin: 10px 0;
+    color: #b0b0b0;
+    text-align: justify;
+}
+
+/* Código */
+pre {
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+code {
+    font-family: "Courier New", Courier, monospace;
+    color: #ff9800;
+}
+
+/* Links */
+a {
+    color: #64b5f6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Botões */
+button {
+    background-color: #00ff6c;
+    color: #121212;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background-color: #27ae60;
+}
+
+/* Formulários */
+form {
+    margin: 20px 0;
+}
+
+input[type="text"], input[type="email"] {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    width: 100%;
+    max-width: 300px;
+}
+
+input[type="submit"] {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+/* Tabelas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+}
+
+/* Listas */
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Imagens */
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+}
+
+/* Flexbox */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.item {
+    background-color: #1e1e1e;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/* Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.grid-item {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+}

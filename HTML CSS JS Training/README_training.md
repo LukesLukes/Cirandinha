@@ -1,0 +1,2 @@
+Nesse primeiro momento, esse 'site inicial' será feito com a ajuda do CopilotAI.
+Porém, ao longo do tempo, ele será refeito com base no meu aprendizado pessoal nas linguagens de HTML, CSS e JavaScript (e em outras possíveis também).
