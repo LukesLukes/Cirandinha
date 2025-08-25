@@ -1,4 +1,8 @@
-# Por favor, não entrar neste repositório para bagunçar.
+# 1° Semestre - Desenvolvimento de Sistemas
+
+# Lógica de Programação com Python | HTML | CSS | JavaScript
+
+# Fundamentos de Eletroeletrônica
 
 # Exercícios.
 # Resolva a expressão booleana abaixo:
