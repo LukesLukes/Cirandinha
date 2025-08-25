@@ -2,7 +2,7 @@
 
 # Lógica de Programação com Python | HTML | CSS | JavaScript
 
-# Fundamentos de Eletroeletrônica
+# Fundamentos de Eletroeletrônica - AND, OR, NOT
 
 # Exercícios.
 # Resolva a expressão booleana abaixo:
